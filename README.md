@@ -6,7 +6,7 @@
 - 🔭 Interessado por astronomia;
 
 
-<a href="mailto:gabrielmendes@estudante.iftm.edu.br" target="_blank">
+<a href="mailto:gabrielmendes@estudante.iftm.edu.br" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://discord.gg/RqndHBcQ" target="_blank">
