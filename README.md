@@ -9,7 +9,7 @@
 <a href="mailto:gabrielmendes@estudante.iftm.edu.br" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://discord.gg/RqndHBcQ" target="_blank">
+<a href="https://discord.com/users/400308156489662474" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
