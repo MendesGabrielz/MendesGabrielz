@@ -15,11 +15,10 @@
 
 ##
 
-<div style="text-align: center" align-items>
-  <a href="https://github.com/MendesGabrielz">
-    <img height="150em" src="https://github-readme-stats-mu-rosy.vercel.app/api?username=MendesGabrielz&show_icons=true&theme=midnight-purple"/>
-    <img height="150em" src="https://github-readme-stats-mu-rosy.vercel.app/api/top-langs/?username=MendesGabrielz&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </a>
+<div style="text-align: center" align-items> <a href="https://github.com/MendesGabrielz"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MendesGabrielz&show_icons=true&theme=midnight-purple"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendesGabrielz&layout=compact&langs_count=7&theme=midnight-purple"/> 
+
 </div>
 
 ##
